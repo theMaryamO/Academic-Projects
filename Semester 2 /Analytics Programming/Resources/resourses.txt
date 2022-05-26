@@ -1,0 +1,7 @@
+RESOURCES
+- cmu open learning initiative
+- Statistics
+
+https://communities.sas.com/t5/SAS-Communities-Library/How-to-concatenate-values-in-SAS/ta-p/494125# (week 5 Question 2)
+
+http://support.sas.com/documentation/cdl/en/lrcon/62955/HTML/default/viewer.htm#a002120511.htm

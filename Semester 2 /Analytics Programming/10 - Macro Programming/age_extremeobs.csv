@@ -1,0 +1,18 @@
+DATA SET LOAN_RISK
+
+The UNIVARIATE Procedure
+Variable:  age  (Age in years)
+"Extreme Observations",,,,,
+"Lowest",,,"Highest",,
+"Value","customer","Obs","Value","customer","Obs"
+19,197,197,66,366,366
+20,299,299,66,391,391
+20,258,258,67,282,282
+20,250,250,67,395,395
+20,211,211,68,427,427
+20,146,146,68,458,458
+20,99,99,70,86,86
+20,83,83,74,98,98
+20,53,53,74,213,213
+21,464,464,74,304,304
+
